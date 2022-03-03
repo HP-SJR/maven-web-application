@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to SUneel Software Solutions. Bengaluru,Karnataka </h1>
-<h1 align="center"> Suneel Software Solutions- Very Good Training center for DevOps </h1>
+<h1 align="center"> Suneel Software Solutions. Dream Comes true </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
