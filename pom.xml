@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>makooli</artifactId>
 	<packaging>war</packaging>
 	<version>43.43.43-SNAPSHOT</version>
 	
