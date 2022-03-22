@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>43.43.43-SNAPSHOT</version>
 	
-	<name>maven-web-application</name>
+	<name>kooli</name>
 
 	<description>Maven Web Project for Java Project</description>
 
