@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>43.43.43-SNAPSHOT</version>
 	
-	<name>kooli</name>
+	<name>makooli</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -111,7 +111,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-application</finalName>
+		<finalName>makooli</finalName>
 		
 		<plugins>
 			<plugin>
