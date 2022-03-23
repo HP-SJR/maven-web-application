@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KOOLI team in Bellundur, my team size is 4 and are ready to do any physical activities like house shifting  activities etc....... </h1>
-<h1 align="center">  We are charging  RS:200/hour and  3 meals/day reach out us:  9986891443(mestri) </h1>
+<h1 align="center">Welcome to Jenkins team in Bellundur, my team size is 4 and are ready to do any project activities like service provides to build application etc....... </h1>
+<h1 align="center">  We are charging  $20/hour and  reachout us  </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
