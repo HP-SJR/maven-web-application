@@ -11,8 +11,8 @@
 <body>
 <h1 align="center">Welcome to Jenkins team in Bellundur, my team size is 4 and are ready to do any project activities like service provides to build application etc....... </h1>
 <h1 align="center">  We are charging  $20/hour and  reachout us : 9538337576 </h1>
-	<h1 align="center"> My Teamamtes are Aswin k-- Devops Admin </h1>
-	<h1 align="center"> My Teamamtes are Bilbi k-- Devops Admin </h1>
+	<h1 align="center"> My Teamamtes are Aswin k -- Devops Admin </h1>
+	<h1 align="center"> My Teamamtes are Bilbi Abraham -- Devops Lead </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
