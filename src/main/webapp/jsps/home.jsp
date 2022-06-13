@@ -11,9 +11,9 @@
 <body>
 <h1 align="center">Welcome to APP Deliver team, providing robust features to clients.We are ready to develop any project and providing support  like  to build applications and deploying apps etc....... </h1>
 <h1 align="center">  We are charging  $5/hour and  reachout us : 9538337576 </h1>
-	<h1 align="center"> Team size is 4 </h1>
+	<h1 align="center"> Team size is 4 and has various responsibilities</h1>
 	<h1 align="center"> Bilbi Abraham--> Devops Lead  </h1>
-	<h1 align="center"> Aswin k -- Devops Admin  </h1>
+	<h1 align="center"> Aswin k -- DevopsAdmin/Infrastructure provider</h1>
 	<h1 align="center"> Pious -- BusinessConsultant  </h1>
 	
 <hr>
